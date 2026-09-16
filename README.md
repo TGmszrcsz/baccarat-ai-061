@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：记录阅读
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 060 篇 - 百家乐Ai预测分析工具：用错误分类找到识别流程的改进方向](https://github.com/TGmszrcsz/baccarat-ai-060) ｜ [下一篇：第 062 篇 - 百家乐Ai预测分析工具：额度变动为何不能单独证明模型效果](https://github.com/TGmszrcsz/baccarat-ai-062)
+
+<!-- article-chain:end -->
+
 投注页面与分析面板并列展示，容易被理解为同一份成绩。本篇围绕“区分分析记录与投注记录的用途”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从具体场景进入问题
